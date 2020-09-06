@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Student-Athletes/student-athletes.github.io.git
+	branch = master
+[submodule "themes/hugo-serif-theme"]
+	path = themes/hugo-serif-theme
+	url = https://github.com/zerostaticthemes/hugo-serif-theme
