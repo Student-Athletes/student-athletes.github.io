@@ -2,7 +2,7 @@
 title: 'Home'
 intro_image: "images/illustrations/game_day.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 ---
 
 # College Athletics is Big Business.
