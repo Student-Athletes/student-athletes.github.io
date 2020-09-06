@@ -11,7 +11,7 @@ publishDir = "docs"
   google_tag_manager_id = ""
 
   [params.homepage]
-    show_call_box = true
+    show_call_box = false
 
   [params.logo]
     mobile = "/images/favicon.svg"
