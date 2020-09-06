@@ -36,8 +36,8 @@ publishDir = "docs"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "Vision"
+    url = "/vision/"
       weight = 1
 
   [[menu.main]]
