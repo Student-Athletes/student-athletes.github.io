@@ -14,21 +14,21 @@ publishDir = "docs"
     show_call_box = true
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
-    desktop = "images/logo/logo.svg"
+    mobile = "/images/logo/Student_Athletes_Logo_Rounded.svg"
+    desktop = "/images/logo/Student_Athletes_Logo_Rounded.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Student Athletes - Advocating for Unionization"
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_og_title = "Hugo Serif Theme"
+    meta_description = "College Athletics is Big Business. It's time they pay recognize and pay their labor."
+    meta_og_title = "Student Athletes"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-serif.netlify.app"
+    meta_og_url = "https://studentathlet.es"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
     meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@twitter"
+    meta_twitter_creator = "@bbthorson"
 
   [params.footer]
     copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'

@@ -1,10 +1,11 @@
 ---
 title: 'Home'
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/game_day.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# College Athletics is Big Business.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Amateurism has become an excuse to subjugate young, talented athletes.
+It's time that we recognize their labor, pay them, and let them unionize.
