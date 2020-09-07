@@ -7,6 +7,8 @@ intro_image_hide_on_mobile: false
 
 # College Athletics is Big Business.
 
-Amateurism has become an excuse to subjugate young, talented athletes.
+## It's time to recognize their labor.
 
-It's time that we recognize their labor, pay them, and let them unionize.
+Amateurism is an excuse to subjugate young, talented athletes.
+
+Classify them as employees. Pay them a fair wage. Let them unionize.
