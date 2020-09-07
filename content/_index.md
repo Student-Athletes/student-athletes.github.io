@@ -8,4 +8,5 @@ intro_image_hide_on_mobile: false
 # College Athletics is Big Business.
 
 Amateurism has become an excuse to subjugate young, talented athletes.
+
 It's time that we recognize their labor, pay them, and let them unionize.
