@@ -1,16 +1,11 @@
 ---
 title: 'About'
-intro_image: "images/illustrations/mission_impossible.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
 menu: 'main'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+StudentAthlet.es was originally purchased by Brad Thorson in 2012. Brad was a scholarship football player at the University of Wisconsin and the University of Kansas, where he earned both his Bachelors and Masters degrees. His experiences instilled in him a deep love of college athletics, while recognizing the incredible inequality and lack of agency to address it. 
 
-## Ne verba patulosque numen vix libet
+## The Voice of the Student Athlete
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
@@ -28,7 +23,7 @@ dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.
 
-## Postquam tamen
+## All Student Athletes Deserve Representation
 
 Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et

@@ -1,17 +1,17 @@
 [
   {
     "title": "Classify",
-    "description": "Recognize college athletes as employees.",
+    "description": "The NCAA caps sport participation at 20 hours a week in season, and 8 hours out of season. That's a joke.",
     "image": "images/features/employees.svg"
   },
   {
     "title": "Compensate",
-    "description": "Pay college athletes a liveable wage.",
+    "description": "Many athletes struggle to pay rent and groceries. Pay college athletes a liveable wage for the time they spend working for their univeristy.",
     "image": "images/features/living_wage.svg"
   },
   {
-    "title": "Unionize",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Recognize",
+    "description": "Student Athletes deserve a trade union. It's time for colleges and athletic departments to recognize them as the collective bloc they are.",
     "image": "images/features/unionize.svg"
   }
 ]
